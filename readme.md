@@ -1,1 +1,2 @@
-Input Star Rating Using only css
+#Input Star Rating Using only css
+just Download the code and run it
